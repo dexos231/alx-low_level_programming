@@ -1,0 +1,13 @@
+y
+sitive_or_negative.c:13: ERROR: space required before the open brace '{'
+0-positive_or_negative.c:13: WARNING: braces {} are not necessary for any arm of this statement
+0-positive_or_negative.c:16: ERROR: trailing whitespace
+0-positive_or_negative.c:17: ERROR: that open brace { should be on the next line
+0-positive_or_negative.c:17: ERROR: space required before the open brace '{'
+0-positive_or_negative.c:17: ERROR: space required after that close brace '}'
+0-positive_or_negative.c:17: ERROR: else statement following close brace '}' sould be on the next line
+0-positive_or_negative.c:20: ERROR: trailing whitespace
+0-positive_or_negative.c:21: ERROR: that open brace { should be on the next line
+0-positive_or_negative.c:21: ERROR: space required after that close brace '}'
+0-positive_or_negative.c:21: ERROR: else statement following close brace '}' sould be on the next line
+0-positive_or_negative.c:24: ERROR: trailing whitespace
