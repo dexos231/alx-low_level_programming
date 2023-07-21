@@ -1,7 +1,7 @@
 #include "main.h"
 
 
-int _isupper(int x)
+int _isupper(int c)
 {
 	if (c >= 'A' && c <= 'Z'){
 		return 1;
