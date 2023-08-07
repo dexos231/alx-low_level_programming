@@ -53,7 +53,7 @@ int _atoi(char *s)
  * Return: 0 (Success), 1 (Error)
  */
 
-int main(int argc , char* argv[])
+int main(int argc , char *argv[])
 {
 	int result;
 	int num1;
@@ -63,7 +63,7 @@ int main(int argc , char* argv[])
 	{
 		printf("error\n");
 
-		return 1;
+		return (1);
 	}
 
 	num1 = _atoi(argv[1]);
@@ -72,5 +72,5 @@ int main(int argc , char* argv[])
 
 	printf("%d\n", result);
 
-	return 0;
+	return (0);
 }
